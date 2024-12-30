@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181854862346",
+    "project_id": "tetrisapp-8c64d",
+    "storage_bucket": "tetrisapp-8c64d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181854862346:android:6ce0e8ff7a1244174c73f3",
+        "android_client_info": {
+          "package_name": "com.example.tetrisapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQheWzGJ0a8GT3jdC_VRhUSQv80qY3RH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
